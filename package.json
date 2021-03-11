@@ -1,0 +1,15 @@
+{
+  "name": "parameter-validator",
+  "version": "1.0.0",
+  "description": "A validation lib using decorator for class method's parameter validation",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "minzi921 wylc137@gmail.com",
+  "license": "MIT",
+  "scripts": {
+    "prepublish": "tsc"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  }
+}
